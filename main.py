@@ -1,6 +1,6 @@
 def kataSolution(input):
     # Your solution code here
-    return ""
+    return 1
 
 def main():
     # Read input from file
